@@ -1,4 +1,4 @@
-Superhero
+Galoweb (Superhero custom)
 ===
 
 Tags: responsive-layout, gray, two-columns, custom-background, custom-header, custom-menu, featured-images, flexible-header, full-width-template, post-formats, sticky-post, translation-ready, rtl-language-support
